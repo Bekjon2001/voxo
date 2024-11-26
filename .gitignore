@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 ge.py
-
+static
 # Distribution / packaging
 .Python
 build/
